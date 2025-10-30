@@ -1,1 +1,1 @@
-# Almost-Sorted-ALGO-MEDUIM
+# Almost-Sorted-ALGO-MEDUIM.The program checks if the array is already sorted; if not, it identifies the first and last indices where it differs from the sorted version and tries either swapping those elements or reversing the subarray between them to see if the array can be sorted with a single operation.
